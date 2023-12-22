@@ -24,7 +24,7 @@ body{
 }
 .main_logo{
     height:30px;
-    width:30px;
+    width:35px;
     margin:11px;
     margin-bottom: 4px;
 }
@@ -38,7 +38,7 @@ h1{
 }
 .google{
     height: 40px;
-    width: 275px;
+    width: 310px;
     display:block;
     margin: auto;
     margin-bottom: 20px;
@@ -46,7 +46,7 @@ h1{
 }
 .apple{
     height: 37px;
-    width:275px;
+    width:310px;
     display: block;
     margin: auto;
     border-radius: 20px;
@@ -55,8 +55,8 @@ h1{
 .left{
     display: inline-block;
     position:absolute;
-    left: 160px;
-    width: 120px;
+    left: 150px;
+    width: 130px;
 }
 .or_text{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,8 +68,8 @@ h1{
 .right{
     display: inline-block;
     position: absolute;
-    right:160px;
-    width:120px;
+    right:150px;
+    width:130px;
 }
 .input{
     background-color: white;
@@ -82,7 +82,7 @@ h1{
     bottom: 20px;
     margin: 5px;
     background-color: black;
-    width: 275px;
+    width: 310px;
     height: 50px;
     border: solid thin grey;
     border-radius: 5px;
@@ -90,13 +90,13 @@ h1{
 .next_button{
     display: block;
     position: relative;
-    left: 160px;
+    left: 145px;
     top:5px;
     margin-bottom: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 1000;
     font-size: 1.008rem;
-    width: 280px;
+    width: 310px;
     height:37px;
     border-radius: 20px;
 }
@@ -106,7 +106,7 @@ h1{
     top:7px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 1.008rem;
-    width: 280px;
+    width: 310px;
     height:37px;
     border: solid thin  #808080 ;
     border-radius: 20px;
@@ -115,7 +115,7 @@ h1{
 .sign_up_text{
     position:relative;
     top:40px;
-    right:30px;
+    right:40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: grey;
 }
