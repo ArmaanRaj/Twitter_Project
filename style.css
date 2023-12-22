@@ -1,0 +1,121 @@
+body{
+    background-color: #263238;
+    text-align: center;
+}
+.main{
+    position:relative;
+    height: 650px;
+    width:600px;
+    background-color: black;
+    margin: auto;
+    margin-top: 45px;
+    border-radius: 20px;
+}
+.close{
+    font-size: 1rem;
+    background-color:black;
+    display: inline-block;
+    position: absolute;
+    top:20px;
+    left :20px;
+    color: white;
+    border-radius: 100%;
+    border: none;
+}
+.main_logo{
+    height:30px;
+    width:30px;
+    margin:11px;
+    margin-bottom: 4px;
+}
+h1{
+    color: white;
+    font-size:2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    right: 75px;
+    margin-bottom: 35px;
+}
+.google{
+    height: 40px;
+    width: 275px;
+    display:block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius:20px;
+}
+.apple{
+    height: 37px;
+    width:275px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+.left{
+    display: inline-block;
+    position:absolute;
+    left: 160px;
+    width: 120px;
+}
+.or_text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:relative;
+    bottom:18px;
+    display: inline-block;
+    color: white;
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right:160px;
+    width:120px;
+}
+.input{
+    background-color: white;
+}
+.info{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.008em;
+    color: white;
+    position:relative;
+    bottom: 20px;
+    margin: 5px;
+    background-color: black;
+    width: 275px;
+    height: 50px;
+    border: solid thin grey;
+    border-radius: 5px;
+}
+.next_button{
+    display: block;
+    position: relative;
+    left: 160px;
+    top:5px;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+    font-size: 1.008rem;
+    width: 280px;
+    height:37px;
+    border-radius: 20px;
+}
+.forgot_password{
+    background-color: black;
+    position: relative;
+    top:7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.008rem;
+    width: 280px;
+    height:37px;
+    border: solid thin  #808080 ;
+    border-radius: 20px;
+    color: white;
+}
+.sign_up_text{
+    position:relative;
+    top:40px;
+    right:30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+}
